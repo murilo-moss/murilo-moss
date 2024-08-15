@@ -1,7 +1,6 @@
 ## Boas vindas ou meu perfil 🥇
 
-Meu nome é Murilo Moss
-
+- Meu nome é Murilo Moss
 - Atleta
 - Ídolo CR7 🤖
 
